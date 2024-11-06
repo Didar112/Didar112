@@ -1,5 +1,5 @@
 # 🙋‍♂️ Hi, I'm Didar
-💻 A computer science student from Bangladesh.<br>💭 Currently exploring different tech stacks. As a passionate CS student,<br>I always look forward to embrace this continuously growing world of <br>Science and technology. <br>🧩 I have an interest in android development and Web technologies.<br>
+💻 A computer science student from Bangladesh.<br>💭 Currently exploring different tech stacks. As a passionate CS student,<br>I always look forward to embrace this continuously growing world of <br>Science and technology. <br>🧩 I have an interest in Cross Platform Application development and Web technologies.<br>
 
 
 # 💻 Tech Stack
